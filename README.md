@@ -9,7 +9,7 @@ Tenho 18 anos, faço faculdade de Ciência da Computação na Universidade Cruze
 
 * 🌍  Eu moro em São Paulo, Brasil.
 * ✉️  Você consegue me contatar pelo email [pedrosoedu12@gmail.com](mailto:pedrosoedu12@gmail.com)
-* 🧠  Tive vivência com Python, Java e JS | HTML e CSS
+* 🧠  Experiência com Python, Java e JS | HTML e CSS
 * ⚡  Eu amo jogar jogos no computador e o meu favorito é Counter-Strike.
 
 <a href="https://www.github.com/ipedrorib" target="_blank" rel="noreferrer">
